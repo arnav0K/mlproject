@@ -25,7 +25,7 @@ cities = ['Hyderabad', 'Bangalore', 'Mumbai', 'Indore', 'Kolkata', 'Delhi',
        'Durban', 'Centurion', 'East London', 'Johannesburg', 'Kimberley',
        'Bloemfontein', 'Ahmedabad', 'Cuttack', 'Nagpur', 'Dharamsala',
        'Visakhapatnam', 'Pune', 'Raipur', 'Ranchi', 'Abu Dhabi',
-       'Sharjah', 'Mohali', 'Bengaluru']
+       'Sharjah', 'Mohali', ]
 
 selected_city = st.selectbox('Cities',sorted(cities))
 
